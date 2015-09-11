@@ -22,7 +22,7 @@ $ node compress.js your/input/path [optional]
 $ node compress.js /home/iam/project-name true
 ```
 
-or
+or for simple example
 
 ```sh
 $ sh test.sh

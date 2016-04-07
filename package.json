@@ -4,6 +4,7 @@
   "description": "for uglify a file, recursively.",
   "main": "compress.js",
   "dependencies": {
+    "ncp": "^2.0.0",
     "uglify-js": "^2.4.24",
     "uglifycss": "^0.0.18"
   },

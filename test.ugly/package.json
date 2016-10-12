@@ -1,0 +1,16 @@
+{
+  "name": "loluglify",
+  "version": "1.0.0",
+  "description": "for uglify a file",
+  "main": "compress.js",
+  "dependencies": {
+    "uglify-js": "^2.4.24",
+    "uglifycss": "^0.0.18"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "sh test.sh"
+  },
+  "author": "Afa Rappresent",
+  "license": "ISC"
+}

@@ -1,3 +1,3 @@
 #/bin/sh
 
-node compress.js test true
+node index.js test true

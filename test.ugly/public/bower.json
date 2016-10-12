@@ -1,0 +1,23 @@
+{
+  "name": "",
+  "version": "0.0.1",
+  "authors": [
+    "Afa Rappresent <mail.vudin@gmail.com>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "modernizr": "*",
+    "jquery": "*",
+    "bootstrap": "*",
+    "dimple": "*",
+    "bootswatch": "*",
+    "backbone": "*"
+  }
+}

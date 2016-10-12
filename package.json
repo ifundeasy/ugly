@@ -1,21 +1,20 @@
 {
-  "name": "loluglify",
-  "version": "1.0.0",
-  "description": "for uglify a file, recursively.",
-  "main": "compress.js",
-  "dependencies": {
-    "ncp": "^2.0.0",
-    "uglify-js": "^2.4.24",
-    "uglifycss": "^0.0.18"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rappresent/loluglify.git"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "sh test.sh"
-  },
-  "author": "Afa Rappresent",
-  "license": "ISC"
+	"name" : "ugly",
+	"version" : "1.0.0",
+	"description" : "for uglify a file, recursively.",
+	"main" : "index.js",
+	"dependencies" : {
+		"uglify-js" : "^2.4.24",
+		"uglifycss" : "^0.0.18"
+	},
+	"repository" : {
+		"type" : "git",
+		"url" : "git+https://github.com/rappresent/ugly.git"
+	},
+	"devDependencies" : {},
+	"scripts" : {
+		"test" : "sh test.sh"
+	},
+	"author" : "Afa Rappresent",
+	"license" : "ISC"
 }

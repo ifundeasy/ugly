@@ -1,9 +1,9 @@
-# loluglify
+# Ugly
 for uglify a file, recursively.
 
 ## Feature
-  - .js
-  - .css
+  - uglifying .js extension
+  - uglifying .css extension
 
 ## Installation
 ```sh
@@ -12,27 +12,27 @@ $ sudo npm install
 
 ## How to use
 ```sh
-$ node compress.js your/input/path [optional]
+$ node index.js your/project/path [is]
 ```
+[is] : you can change this with 'true' (for force minify, this will replace your output path)
 
-[optional] : you can change this with 'true' (for force minify, this will replace your output path)
 
 ## Example
 ```sh
-$ node compress.js /home/iam/project-name true
+$ node index.js your/project/path true
 ```
 
-or for simple example
+or
 
 ```sh
 $ sh test.sh
 ```
 
 ## Result
-look at your your/input/path-loluglify
+look at your your/project/path.ugly
 
 ## Avoid / Ignoring
-put your .loluglify on your input path. its look like your/input/path/.loluglify
+put your .ugly on your input path, its look like your/project/path/.ugly
 
 ## License
 ISC
